@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "25525669258",
+    "project_id": "isprogramlama",
+    "storage_bucket": "isprogramlama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25525669258:android:c99c7337e0db59486c0c73",
+        "android_client_info": {
+          "package_name": "com.omerfarukisik.erdemlibelediyesiisprogramlama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25525669258-3b47eevlv448d0vejcic2k56rgnkqpn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiciJoNQbUknLl4eAQLhy-6xWU1-s6yd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25525669258-3b47eevlv448d0vejcic2k56rgnkqpn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25525669258:android:8ac0805d4afe63966c0c73",
+        "android_client_info": {
+          "package_name": "com.omerfarukisik.isprogramlama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25525669258-3b47eevlv448d0vejcic2k56rgnkqpn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiciJoNQbUknLl4eAQLhy-6xWU1-s6yd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25525669258-3b47eevlv448d0vejcic2k56rgnkqpn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

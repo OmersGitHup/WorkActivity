@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/edittextduzeni"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:onClick="sikayet_duzenle"
+        >
+
+        <TextView
+            android:id="@+id/personelMail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Personel Mail"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/personelIsim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Personel İsim"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/personelSoyisim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Personel Soyisim"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</LinearLayout>
